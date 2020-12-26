@@ -1,0 +1,46 @@
+#otzivtext{
+  margin-top: 0%;
+  display:block;
+  font-size: 58px;
+  font-family: segoe print;
+}
+
+#Avatar{
+  display:block;
+  margin-top:100px;
+}
+
+#AccountHello2{
+  display:block;
+  font-size: 18px;
+  font-family: segoe print;
+}
+
+#AccountHello{
+  display:block;
+  font-size: 58px;
+  font-family: segoe print;
+}
+
+
+/* #ButtonExit{
+  margin: auto;
+  display: block;
+	margin-top: 25px;
+	position: relative;
+} */
+/* #a{
+  margin: 0px 0px 0px -162px;
+} */
+
+form{
+  width: 500px;
+}
+#butt{
+  margin-top:100px;
+  width: 450px;
+}
+body{
+  background-image: url("back.png");
+  background-position: 20px 50px
+}
